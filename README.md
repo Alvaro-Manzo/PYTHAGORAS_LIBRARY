@@ -323,7 +323,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Alvaro-Manzo**
 
 - GitHub: [@Alvaro-Manzo](https://github.com/Alvaro-Manzo)
-- Repository: [PYTHAGOREAN_LIBRARY](https://github.com/Alvaro-Manzo/PYTHAGOREAN_LIBRARY)
+- Repository: [PYTHAGOREAN_LIBRARY](https://github.com/Alvaro-Manzo/PYTHAGORAS_LIBRARY)
 
 ## The Pythagorean Theorem
 
