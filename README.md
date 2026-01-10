@@ -354,3 +354,4 @@ Yes, it's licensed under MIT, which allows commercial use.
 ---
 
 **Made with dedication by Alvaro-Manzo**
+:)
