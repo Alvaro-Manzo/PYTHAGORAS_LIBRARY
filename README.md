@@ -12,7 +12,7 @@ Professional and simple library for Pythagorean theorem calculations. Perfect fo
 - Complete documentation in English
 - No external dependencies
 - Fully typed with type hints
-- Unit test suite included
+- Unit test suite included.
 
 ## Installation
 
