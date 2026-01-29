@@ -118,7 +118,7 @@ Formula: `b = √(c² - a²)`
 - (float): The length of side b
 
 **Raises:**
-- `ValueError`: If the hypotenuse is not the longest side or values are invalid
+- `ValueError`: If the hypotenuse is not the longest side or values are invalid.
 
 **Example:**
 ```python
