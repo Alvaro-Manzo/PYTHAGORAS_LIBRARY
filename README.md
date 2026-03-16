@@ -11,7 +11,7 @@ Professional and simple library for Pythagorean theorem calculations. Perfect fo
 - Robust error handling
 - Complete documentation in English
 - No external dependencies
-- Fully typed with type hints
+- Fully typed with type hints.
 - Unit test suite included.
 
 ## Installation
