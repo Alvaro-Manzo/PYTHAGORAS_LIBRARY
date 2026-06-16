@@ -16,7 +16,7 @@ Professional and simple library for Pythagorean theorem calculations. Perfect fo
 
 ## Installation
 
-### From PyPI (coming soon)
+### From PyPI (AVAILABLE)
 
 ```bash
 pip3 install Pythagorean
